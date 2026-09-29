@@ -1,3 +1,5 @@
+> **Fork of [Intina47/context-sync](https://github.com/Intina47/context-sync)** (MIT). All code is the upstream author's; see [FORK_NOTES.md](FORK_NOTES.md).
+
 <h1>Context Sync: 🧠 The Memory Layer for AI Development</h1>
 
 **Finally, AI that remembers.**
